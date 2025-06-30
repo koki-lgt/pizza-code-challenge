@@ -1,4 +1,4 @@
-# 🍕 Pizza API Challenge
+# 🍕 Pizza code Challenge
 
 A simple RESTful Flask API for managing restaurants, pizzas, and their pricing. Built using Flask, SQLAlchemy, and Flask-Migrate.
 
@@ -27,8 +27,8 @@ README.md # You're here
 1. **Clone the repository:**
 
 bash
-git clone https://github.com/DenzelMwangi001/pizza-api-challenge.git
-cd pizza-api-challenge
+git clone https://github.com/koki-lgt/pizza-code-challenge/
+cd pizza-code-challenge
 Set up your virtual environment:
 
 bash
